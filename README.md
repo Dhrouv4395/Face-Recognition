@@ -3,10 +3,10 @@ Its real time Face Recognition program.
 
 Hello All,
 This is a Face Recognition program.
-In this i'm using cv2, os, numpy module.
+In this i'm using cv2, os and numpy module.
 
 In first part of program we take 100 sample pictures of user,
-and then in second part we train our model and and testing it.
+and then in second part we train our model and testing it.
 
 There is 3 parts in the recognition system:
 
